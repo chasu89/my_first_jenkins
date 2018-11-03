@@ -2,3 +2,5 @@
 syntax: glob
 target\
 .settings\
+target
+.settings
