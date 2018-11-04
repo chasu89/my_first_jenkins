@@ -207,7 +207,7 @@
 				<artifactId>tomcat-maven-plugin</artifactId>
 				<configuration>
                 	<mode>war</mode>
-					<url>http://172.31.32.182:8080/manager/html</url>
+					<url>http://localhost:8080/manager/text</url>
 					<path>/myfirstjenkins</path>
 					<username>admin</username>
 					<password>manager</password>
